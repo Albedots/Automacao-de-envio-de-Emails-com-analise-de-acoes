@@ -11,7 +11,7 @@
 ## Instalação
  - Clone o repositório ou baixe apenas o `main.py`
  - Certifique-se de que você tem o Python instalado em seu sistema e/ou
- Interpretador Python. Este projeto foi testa numa versão 3.x do Python
+ Interpretador Python. Este projeto foi testado numa versão 3.x do Python
  - Instale as bibliotecas necessarias usando o `pip`:
 ```bash
     pip install yfinance pyautogui pyperclip
