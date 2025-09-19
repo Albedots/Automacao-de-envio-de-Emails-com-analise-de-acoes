@@ -1,4 +1,3 @@
-# Projeto criado com o curso intensivo de python da empowerdata.
 # Programa realiza uma simples ação de enviar email de forma automatica
 # com os dados de uma ação desejada
 
