@@ -1,6 +1,6 @@
 # Automação de Envio de E-mails com Análise de Ações
 
-### Este projeto foi criado como parte do curso intensivo de **Python** da **EmpowerData**. O programa realiza a automação do envio de e-mails com dados de ações financeiras. Ele coleta informações sobre uma ação específica em um intervalo de datas definido pelo usuário e envia um e-mail com essas informações usando o Gmail.
+### O projeto realiza a automação do envio de e-mails com dados de ações financeiras. Ele coleta informações sobre uma ação específica em um intervalo de datas definido pelo usuário e envia um e-mail com essas informações usando o Gmail.
 
 ## Funcionalidades
 - **Coleta de dados**: Obtém dados históricos de ações usando a biblioteca `yfinance`.
